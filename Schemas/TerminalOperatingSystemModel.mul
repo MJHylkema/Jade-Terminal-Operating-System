@@ -1,0 +1,4 @@
+#MULTIPLE_SCHEMA_EXTRACT
+TerminalOperatingSystemModel.scm TerminalOperatingSystemModel.ddb
+TerminalOperatinSystemTest.scm TerminalOperatinSystemTest.ddb
+TerminalOperatingSystemView.scm TerminalOperatingSystemView.ddb
