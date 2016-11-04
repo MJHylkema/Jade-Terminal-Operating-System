@@ -1,0 +1,8 @@
+﻿ConsignmentUID,SubUID,CargoType,Owner,Quantity,GrossWeight,UnitWeight,Origin,Destination,Manifest
+15525435467754,222,CONTAINER,Shipping Australia,1,30480,30480,"Sydney, Australia","Dunedin, New Zealand",Pink batts insulation
+15525435467755,223,CONTAINER,Shipping Australia,1,30480,30480,"Sydney, Australia","Grey Mouth, New Zealand",Pink batts insulation
+15525435467756,224,CONTAINER,Shipping Australia,1,30480,30480,"Sydney, Australia","Wanaka, New Zealand",Pink batts insulation
+15525435467757,225,CONTAINER,Shipping Australia,1,30480,30480,"Sydney, Australia","Queenstown, New Zealand",Pink batts insulation
+15525435467758,226,CONTAINER,Shipping Australia,1,30480,30480,"Sydney, Australia","Invecargil, New Zealand",Pink batts insulation
+28883947766738,N/A,GENERAL CARGO,Shipping Corporation of New Zealand,N/A,20000000,N/A,"Hokitika, New Zealand","Auckland, New Zealand",Untreated pine timber
+77574665354757,N/A,CRUDE OIL,Kuwait Petroleum Corporation,N/A,150000000,N/A,"Kuwait, Kuwait","Whangarey, New Zealand",Crude oil
